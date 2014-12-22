@@ -1,0 +1,20 @@
+Author: Brian Mitzel
+Email: bmitzel@csu.fullerton.edu
+Language: C++
+
+Compiling:
+    make
+
+Running the server:
+    ./server <filename> <threads>
+        filename: The name of a file storing a list of records
+        threads: The number of ID lookup threads
+        
+Running the client:
+    ./client
+
+Extra Credit:
+    Not implemented
+
+Other Notes:
+    None
